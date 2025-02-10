@@ -32,9 +32,6 @@ O Jetpack Compose foi utilizado para criar uma interface responsiva e moderna. A
 6. Conclusão
 A aplicação NewsApp foi desenvolvida com sucesso utilizando as tecnologias modernas do ecossistema Android. O uso de Jetpack Compose permitiu a criação de uma interface dinâmica e intuitiva, enquanto o Retrofit garantiu um consumo eficiente da API do 'The New York Times'. A arquitetura MVVM proporcionou um código organizado e de fácil manutenção. Futuras melhorias podem incluir a implementação de um banco de dados local para armazenamento offline e a adição de filtros personalizados para os usuários.
 
-
-
-
 8. Referências
 Documentação oficial do Jetpack Compose: https://developer.android.com/jetpack/compose
 Documentação oficial do Retrofit: https://square.github.io/retrofit/
@@ -42,4 +39,5 @@ Documentação oficial do Coil
 API do "The New York Times": https://developer.nytimes.com
 
 
+===================================================================INTERFACE DA APLICAÇÃO=================================================================================================
 ![App-News1](https://github.com/user-attachments/assets/8c7aae66-cc6a-4b21-b10c-ac140c7657a1)
