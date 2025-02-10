@@ -39,5 +39,5 @@ Documentação oficial do Coil
 API do "The New York Times": https://developer.nytimes.com
 
 
-===================================================================INTERFACE DA APLICAÇÃO=================================================================================================
+============================INTERFACE DA APLICAÇÃO=================================================
 ![App-News1](https://github.com/user-attachments/assets/8c7aae66-cc6a-4b21-b10c-ac140c7657a1)
